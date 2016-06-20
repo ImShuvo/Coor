@@ -8,6 +8,7 @@ nav ul, footer ul {
 }
 
 h1 {
+    top: 30%;
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
